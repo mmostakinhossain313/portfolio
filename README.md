@@ -11,6 +11,7 @@ n8n, Chatbot এবং Workflow Automation আমার মূল কাজ।
 - ⚡ n8n Workflow Automation
 - 🔗 API Integration
 - 📱 Telegram & WhatsApp Bot
+- 🧠 Prompt Engineering & AI Optimization
 
 ## 🌟 আমার সেরা কাজ
 
