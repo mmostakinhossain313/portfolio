@@ -12,7 +12,8 @@ n8n, Chatbot এবং Workflow Automation আমার মূল কাজ।
 - 🔗 API Integration
 - 📱 Telegram & WhatsApp Bot
 - 🧠 Prompt Engineering & AI Optimization
-
+- 🎨 UI/UX Design Automation
+  
 ## 🌟 আমার সেরা কাজ
 
 | প্রজেক্ট | বিবরণ |
@@ -24,3 +25,4 @@ n8n, Chatbot এবং Workflow Automation আমার মূল কাজ।
 
 - 💼 Upwork: upwork.com/freelancers/mostakinhossain89
 - 🌍 দেশ: Bangladesh
+- -mail : mostakinhossain89@gmail.com
