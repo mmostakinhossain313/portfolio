@@ -1,4 +1,4 @@
-# 🤖 AI Automation Specialist
+# 🤖 AI Automation Specialist | Mostakin Hossain
 
 > Transforming business processes with intelligent automation solutions
 
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm an **AI Automation Freelancer** specializing in building intelligent workflows and automation solutions that streamline business operations. With expertise in AI, machine learning, and automation frameworks, I help businesses reduce manual work, increase efficiency, and scale operations effortlessly.
+I'm **Mostakin Hossain**, an **AI Automation Freelancer** specializing in building intelligent workflows and automation solutions that streamline business operations. With expertise in AI, machine learning, and automation frameworks, I help businesses reduce manual work, increase efficiency, and scale operations effortlessly.
 
 ### 💡 What I Do
 - 🔄 **Process Automation** - Automate repetitive tasks using AI & RPA
@@ -41,19 +41,19 @@ I'm an **AI Automation Freelancer** specializing in building intelligent workflo
 
 ## 💼 Featured Projects
 
-### 🎯 [Email Marketing Automation](https://github.com/yourusername/email-automation)
+### 🎯 [Email Marketing Automation](https://github.com/mmostakinhossain313/email-automation)
 Automated email campaigns with AI-powered personalization
 - **Tech:** Python, OpenAI API, MongoDB
 - **Result:** 40% improvement in email open rates
 - ⭐ 120+ Stars
 
-### 🏢 [Invoice Processing System](https://github.com/yourusername/invoice-processor)
+### 🏢 [Invoice Processing System](https://github.com/mmostakinhossain313/invoice-processor)
 Extract and process invoices automatically using AI vision
 - **Tech:** Python, OCR, LangChain, FastAPI
 - **Result:** Process 1000+ invoices daily automatically
 - ⭐ 85+ Stars
 
-### 💬 [AI Customer Support Bot](https://github.com/yourusername/ai-support-bot)
+### 💬 [AI Customer Support Bot](https://github.com/mmostakinhossain313/ai-support-bot)
 Intelligent chatbot handling 80% of customer inquiries
 - **Tech:** Python, OpenAI, Discord/Slack API
 - **Result:** 50% reduction in support team workload
@@ -63,9 +63,9 @@ Intelligent chatbot handling 80% of customer inquiries
 
 ## 📊 Recent Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmostakinhossain313&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmostakinhossain313&layout=compact&theme=radical)
 
 ---
 
@@ -110,10 +110,18 @@ Intelligent chatbot handling 80% of customer inquiries
 
 I'm always interested in discussing new automation projects and opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://yourwebsite.com)
+**Quick Contact:**
+- 📱 **WhatsApp:** [+880 1722 600 101](https://wa.me/8801722600101)
+- 📧 **Email:** [mostakinhossain89@gmail.com](mailto:mostakinhossain89@gmail.com)
+
+**Freelance Platforms:**
+- 💼 **Upwork:** [upwork.com/freelancers/mostakinhossain89ar](https://upwork.com/freelancers/mostakinhossain89ar)
+- 🎨 **Fiverr:** [fiverr.com/article_best2?public_mode=true](https://www.fiverr.com/article_best2?public_mode=true)
+
+**Social & Professional:**
+- 🔗 **LinkedIn:** [md-mostakin-hossain-5947a066](https://www.linkedin.com/in/md-mostakin-hossain-5947a066)
+- 🐦 **Twitter:** [@mostakin12](https://twitter.com/mostakin12)
+- 🐙 **GitHub:** [mmostakinhossain313](https://github.com/mmostakinhossain313)
 
 ---
 
@@ -134,6 +142,8 @@ I'm always interested in discussing new automation projects and opportunities.
 ✅ **Cost-Effective** - Save 30-60% on operational costs  
 ✅ **Quick Turnaround** - Fast implementation and deployment  
 ✅ **Full Support** - Ongoing maintenance and optimization  
+✅ **24/7 Available** - Quick response on WhatsApp & Email  
+✅ **Verified on Multiple Platforms** - Upwork, Fiverr, LinkedIn
 
 ---
 
@@ -154,7 +164,11 @@ I'm always interested in discussing new automation projects and opportunities.
 ---
 
 **Last Updated:** May 2026 | Portfolio constantly updated with new projects
-- 💼 Upwork: upwork.com/freelancers/mostakinhossain89
-- 🌍 দেশ: Bangladesh
-- -mail : mostakinhossain89@gmail.com
-- Updated : May 2026
+
+---
+
+## 🏆 My Commitment
+
+I believe in delivering **quality solutions** that create **real business value**. Whether you're a startup looking to automate your first process or an enterprise scaling complex workflows, I'm here to help you succeed.
+
+**Let's work together to transform your business! 🚀**
