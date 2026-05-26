@@ -26,3 +26,4 @@ n8n, Chatbot এবং Workflow Automation আমার মূল কাজ।
 - 💼 Upwork: upwork.com/freelancers/mostakinhossain89
 - 🌍 দেশ: Bangladesh
 - -mail : mostakinhossain89@gmail.com
+- Updated : May 2026
